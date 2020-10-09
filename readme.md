@@ -21,7 +21,7 @@
  
 ---
 
-##### sur ma branche `features/test` je lance une pull request à ma branche dev (preprod)
+##### sur ma branche `features/test` je push et lance une pull request
 
 ---
 **URL PRO ET PREPROD**

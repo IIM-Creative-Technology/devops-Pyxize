@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+**Projet**
+
+Projet fait en Laravel qui permet d'ajouter un article , le lire, le modifier et le supprimer 
+
 **CI / CD**
 
 

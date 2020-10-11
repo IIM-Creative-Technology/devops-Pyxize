@@ -21,7 +21,7 @@ Projet fait en Laravel qui permet d'ajouter un article , le lire, le modifier et
 `PHP-Stan` => c'est un analysateur statique pour PHP qui permet de trouver les bugs dans notre code sans écrire de test
 
 `lighthouse-ci-action` => Lighthouse est un outil d'audit de site Web automatisé.
- Il permet de diagnostiquer notre site pour améliorer l'expérience utilisateur 
+ Il permet de diagnostiquer notre site pour améliorer l'expérience utilisateur (une url est généré à la fin du job)
  
 ---
 
